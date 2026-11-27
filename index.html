@@ -189,8 +189,12 @@
     });
 
     document.addEventListener('keydown', (event) => {
-      if (event.key === 'Escape') {
+      if (event.key === 'Escape' && siteHeader.classList.contains('nav-open')) {
+        const shouldRestoreFocus = primaryMenu.contains(document.activeElement);
         closeMenu();
+        if (shouldRestoreFocus) {
+          menuToggle.focus();
+        }
       }
     });
   </script>
