@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+<symbol id="code" viewBox="0 0 32 32"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 8l-4 8 4 8M26 8l4 8-4 8M18 6l-4 20"/></g></symbol>
+<symbol id="stats" viewBox="0 0 32 32"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 26h24M8 22v-6M14 22V8M20 22v-9M26 22v-4"/></g></symbol>
+<symbol id="clustering" viewBox="0 0 32 32"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="10" r="4"/><circle cx="23" cy="10" r="4"/><circle cx="16" cy="23" r="4"/></g></symbol>
+<symbol id="dataviz" viewBox="0 0 32 32"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 24l8-9 6 5 12-13M3 28h26"/></g></symbol>
+<symbol id="network" viewBox="0 0 32 32"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="16" cy="6" r="3"/><circle cx="6" cy="24" r="3"/><circle cx="26" cy="24" r="3"/><path d="M14.5 8.5L7.5 21.5M17.5 8.5l7 13M9 24h14"/></g></symbol>
+<symbol id="osint" viewBox="0 0 32 32"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="14" cy="14" r="9"/><path d="M21 21l8 8"/></g></symbol>
+</svg>
