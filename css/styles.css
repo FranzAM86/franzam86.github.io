@@ -206,6 +206,7 @@ h1 {
   display: flex;
   flex-wrap: wrap;
   gap: 12px;
+  align-items: baseline;
 }
 
 .button {
@@ -477,6 +478,10 @@ h1 {
   .research-row h3,
   .method-item h3 {
     font-size: 18px;
+  }
+
+  .research-row h3 {
+    margin-bottom: 0;
   }
 
   .research-row p:not(.tag) {
